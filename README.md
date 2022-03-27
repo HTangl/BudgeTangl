@@ -4,7 +4,7 @@
 
 The BudgeTangl is a budget oriented case design for a rectangle controller using the HTangl layout.  
 
-I originally designed it be built entirelely out of laser cut 3mm acrylic but you could use any material you want.  
+I originally designed it be built entirelely out of laser cut 3mm acrylic but you could use any material you want, MDF works particulary well and is a little bit cheaper.     
 
 You can send the DXF files in the repository to a laser cutting company like SendCutSend to get them cut.  
 
