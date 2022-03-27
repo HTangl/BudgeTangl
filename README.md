@@ -1,7 +1,6 @@
 # BudgeTangl
 
 ![](https://github.com/HTangl/BudgeTangl/blob/main/Pictures/Layered%20no%20top%20panel.png?raw=true)
-![](https://github.com/HTangl/BudgeTangl/blob/main/Pictures/Hardware%206.png?raw=true)
 
 The BudgeTangl is a budget oriented case design for a rectangle controller using the HTangl layout.  
 
@@ -33,4 +32,6 @@ Amazon Screws
 16mm - https://amazon.com/dp/B07NVC2ZTP  
 
 Amazon Weld Nuts  
-https://amazon.com/dp/B07H57TRN4
+https://amazon.com/dp/B07H57TRN4  
+
+![](https://github.com/HTangl/BudgeTangl/blob/main/Pictures/Hardware%206.png?raw=true)
