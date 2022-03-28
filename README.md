@@ -12,7 +12,7 @@ The middle layers are cut to accept a [Model U breakout](https://github.com/HTan
 
 For hardware you will need 6 M5 weld nuts and 6 M5 screws, the length of screw needed depends on what material you decide to use and how many layers you use.  
 
-For example if you are using 4 layers of 3mm acrylic then 12mm screws will work perfectly.  
+For example if you are using 4 layers of 3mm acrylic then 10mm screws will work perfectly.  
 
 You can get screws and weld nuts from McMaster Carr or Amazon, I also sell them in individual packs on my [Etsy shop](https://www.etsy.com/shop/HTangl).  
 
