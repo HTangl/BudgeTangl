@@ -8,7 +8,7 @@ I originally designed it be built entirelely out of laser cut 3mm acrylic but yo
 
 You can send the DXF files in the repository to a laser cutting company like SendCutSend to get them cut. joeyorton#7970 on my [Discord](https://discord.gg/yAeFsbCDpv) also cuts these, DM him for details.  
 
-The middle layers are cut to accept a [Model U breakout](https://github.com/HTangl/Model-U) board which where designed by [Crane](https://github.com/Crane1195/). You can buy them directly from a PCB manufacturer like JLCPCB or from me on [Etsy](https://www.etsy.com/shop/HTangl).
+The middle layers are cut to accept a [Model U](https://github.com/HTangl/Model-U) breakout board which where designed by [Crane](https://github.com/Crane1195/). You can buy them directly from a PCB manufacturer like JLCPCB or from me on [Etsy](https://www.etsy.com/shop/HTangl).
 
 For hardware you will need 6 M5 weld nuts and 6 M5 screws, the length of screw needed depends on what material you decide to use and how many layers you use.  
 
