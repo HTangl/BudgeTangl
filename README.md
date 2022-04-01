@@ -2,7 +2,7 @@
 
 ![](https://github.com/HTangl/BudgeTangl/blob/main/Pictures/Layered%20no%20top%20panel.png?raw=true)
 
-The BudgeTangl is a budget oriented case design for a rectangle controller using the HTangl layout.  
+The BudgeTangl is a budget oriented case design for a rectangle controller using the [HTangl layout](https://www.htangl.com/details).  
 
 I originally designed it be built entirelely out of laser cut 3mm acrylic but you could use any material you want, MDF works particulary well and is a little bit cheaper.  
 
