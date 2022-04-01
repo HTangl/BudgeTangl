@@ -4,11 +4,13 @@
 
 The BudgeTangl is a budget oriented case design for a rectangle controller using the HTangl layout.  
 
-I originally designed it be built entirelely out of laser cut 3mm acrylic but you could use any material you want, MDF works particulary well and is a little bit cheaper.     
+I originally designed it be built entirelely out of laser cut 3mm acrylic but you could use any material you want, MDF works particulary well and is a little bit cheaper.  
 
-You can send the DXF files in the repository to a laser cutting company like SendCutSend to get them cut. joeyorton#7970 on my [Discord](https://discord.gg/yAeFsbCDpv) also cuts these, DM him for details.  
+You will need at least 6mm of room in the middle for all of the wiring, the pico/arduino and the model U to fit so if you're using 3mm panels you'll need 2 middle layers and then a switchplate and bottom panel at the very minimum. You could also use a single 1/4in (6mm) panel for the middle layer and then a 3mm switch plate and bottom panel. There are many different ways you can configure your case and these are just a few examples. I have also included files for an optional top panel if you'd like the switches to sit lower in the case, this is not necessary but some people don't like the look of the switch sticking up high above the top of the case. 
 
-The middle layers are cut to accept a [Model U](https://github.com/HTangl/Model-U) breakout board which where designed by [Crane](https://github.com/Crane1195/). You can buy them directly from a PCB manufacturer like JLCPCB or from me on [Etsy](https://www.etsy.com/shop/HTangl).
+You can send the DXF files in this repository to a laser cutting company like SendCutSend to get them cut. joeyorton#7970 on my [Discord](https://discord.gg/yAeFsbCDpv) also cuts these, DM him for details.  
+
+The middle layers are cut to accept a [Model U](https://github.com/HTangl/Model-U) breakout board which was designed by [Crane](https://github.com/Crane1195/). You can buy them directly from a PCB manufacturer like JLCPCB or from me on [Etsy](https://www.etsy.com/shop/HTangl).  
 
 For hardware you will need 6 M5 weld nuts and 6 M5 screws, the length of screw needed depends on what material you decide to use and how many layers you use.  
 
