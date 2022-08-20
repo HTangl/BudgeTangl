@@ -2,7 +2,7 @@
 
 ![](https://github.com/HTangl/BudgeTangl/blob/main/Pictures/Layered%20no%20top%20panel.png?raw=true)  
 
-### DISCLAIMER ###  
+### DISCLAIMER ###
 The BudgeTangl is not compatible with the DIDIY board, the goal of this case is to be as cheap as possible which means using very few layers of material. Because it is so thin the DIDIY board will not fit. Please use the [DIDIY case](https://github.com/HTangl/DIDIY-Case) if you are buildng a controller using one of my DIY kits.  
 
 The BudgeTangl is a budget oriented case design for a rectangle controller using the [HTangl layout](https://www.htangl.com/layout).  
