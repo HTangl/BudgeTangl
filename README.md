@@ -54,4 +54,6 @@ https://amazon.com/dp/B07H57TRN4
 
 ![](https://github.com/HTangl/BudgeTangl/blob/main/Pictures/Hardware%206.png?raw=true)  
 
+### License ###
+
 This repository is licensed under the CERN Open Hardware License Version 2 - Strongly Reciprocal. Please read the license in this repository and visit https://ohwr.org/cernohl for more information. This license allows you to make a modified or unmodified version of this case for yourself or to sell provided you follow the guidelines of the license. The strongly reciprocal version of the license I have chosen requires that you use this same license if you decide to make modifications to any of the files in this repository.  
